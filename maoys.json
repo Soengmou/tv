@@ -313,6 +313,11 @@
       "url": "Sequence"
     },
     {
+      "name":"00",
+      "type":1,
+      "url":"https://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="
+    },
+    {
       "name":"01",
       "type":1,
       "url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url=",
