@@ -42,7 +42,7 @@
     },
     {
       "key":"云播看看",
-      "name":"🌨云播看看",
+      "name":"🌨云播看看〔XP〕",
       "type":3,
       "api":"csp_XPath",
       "searchable":1,
@@ -132,7 +132,7 @@
     },
     {
       "key":"csp_xpath_蚂蚁影视",
-      "name":"🐜蚂蚁影视",
+      "name":"🐜蚂蚁影视〔XPM〕",
       "type":3,
       "api":"csp_XPathFilter",
       "searchable":1,
@@ -332,7 +332,7 @@
     },
     {
       "key": "csp_biubiu_yekong",
-      "name": "🌃夜空高清",
+      "name": "🌃夜空高清〔XB〕",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
