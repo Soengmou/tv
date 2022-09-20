@@ -290,7 +290,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vc25nZGhhL1R2Q29uZmlnL3Jhdy9jb21taXQvZGFiNWIwYjMwNDMwYjkwMDVkYzdhYWIzODMzN2ZlM2M3ZTZhMmUyMS90di90di50eHQ"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2t2eW1pbi9UVi9yYXcvYnJhbmNoL21hc3Rlci9saXZlL2xpdmUubTN1"
           ]
         }
       ]
