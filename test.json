@@ -148,16 +148,6 @@
       "filterable": 1
     },
     {
-      "key": "Gitcafe",
-      "name": "小纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "1f373a68733e4dafa5fa28dca9826b35"
-    },
-    {
       "key": "Ikan",
       "name": "爱看",
       "type": 3,
@@ -203,8 +193,8 @@
       "filterable": 1
     },
     {
-      "key": "剧荒TV",
-      "name": "🕊剧荒TV",
+      "key": "剧荒",
+      "name": "剧荒",
       "type": 3,
       "api": "csp_Juhuang",
       "searchable": 1,
@@ -374,16 +364,6 @@
       "filterable": 1
     },
     {
-      "key": "UP云搜",
-      "name": "UP云搜",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "28801b1dbaf4418fb7bc221a575703dd"
-    },
-    {
       "key": "完美看看",
       "name": "完美看看",
       "type": 3,
@@ -420,14 +400,14 @@
       "filterable": 1
     },
     {
-      "key": "易搜",
-      "name": "易搜",
+      "key": "Gitcafe",
+      "name": "小纸条",
       "type": 3,
-      "api": "csp_Yiso",
+      "api": "csp_Gitcafe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "28801b1dbaf4418fb7bc221a575703dd"
+      "ext": "1f373a68733e4dafa5fa28dca9826b35"
     },
     {
       "key": "在线直播",
@@ -467,6 +447,16 @@
       "ext": "28801b1dbaf4418fb7bc221a575703dd"
     },
     {
+      "key": "UP云搜",
+      "name": "UP云搜",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "28801b1dbaf4418fb7bc221a575703dd"
+    },
+    {
       "key": "zhaozy",
       "name": "找资源",
       "type": 3,
@@ -475,6 +465,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "3781469b13074e4cac1e0e7113e4fa20"
+    },
+    {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_Yiso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "28801b1dbaf4418fb7bc221a575703dd"
     },
     {
       "key": "push_agent",
