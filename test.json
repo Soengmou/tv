@@ -106,6 +106,15 @@
       "key": "低端",
       "name": "低端",
       "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "低端",
+      "name": "Ddys",
+      "type": 3,
       "api": "csp_Ddys",
       "searchable": 1,
       "quickSearch": 1,
@@ -251,6 +260,24 @@
       "name": "Libvio",
       "type": 3,
       "api": "csp_Lib",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小苹果",
+      "name": "小苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "本地",
+      "name": "本地",
+      "type": 3,
+      "api": "csp_LocalFile",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
