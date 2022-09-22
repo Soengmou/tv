@@ -563,16 +563,15 @@
       "url": "Sequence"
     },
     {
-      "name":"01",
-      "type":1,
-      "url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url=",
-      "ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}
+      "name": "爱酷",
+      "type": 1,
+      "url": "http://ck.laobandq.com/3515240842.php?pltfrom=1100&url="
     },
     {
-      "name":"02",
+      "name":"江湖",
       "type":1,
-      "url":"https://vip.nxflv.com/home/aphttps://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url=",
-      "ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
+      "url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=",
+      "ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}
     }
   ],
   "flags": [
