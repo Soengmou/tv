@@ -6,7 +6,7 @@
       "key": "t4public",
       "name":"公共",
       "type": 4,
-      "api":"https://t4.secan.icu/vod?sites=all&ali_token=81461f2e9d0b4ffb86612db403824b8a&timeout=10", 
+      "api":"https://t4.secan.icu/vod?sites=all&ali_token=14ab7929c5724ffd9c3431d8fa19d421&timeout=10", 
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
