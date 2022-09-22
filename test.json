@@ -309,7 +309,7 @@
     },
     {
       "key": "多多",
-      "name": "🐌多多采集",
+      "name": "多多（采集）",
       "type": 1,
       "api": "https://www.ddzyz1.com/api.php/provide/vod/",
       "searchable": 1,
