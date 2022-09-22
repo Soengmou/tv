@@ -193,10 +193,10 @@
       "filterable": 1
     },
     {
-      "key": "csp_Alist3",
+      "key": "csp_Alist",
       "name": "Alist合集",
       "type": 3,
-      "api": "csp_Alist3",
+      "api": "csp_Alist",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
