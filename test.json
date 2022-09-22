@@ -138,8 +138,8 @@
       "filterable": 0
     },
     {
-      "key": "神马影院",
-      "name": "神马影院",
+      "key": "神马",
+      "name": "神马",
       "type": 3,
       "api": "csp_Smdyy",
       "searchable": 1,
