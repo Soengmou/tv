@@ -111,15 +111,6 @@
       "filterable": 1
     },
     {
-      "key": "影视工场",
-      "name": "影视工场",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Olevod",
       "name": "Olevod",
       "type": 3,
