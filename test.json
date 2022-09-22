@@ -372,14 +372,20 @@
       "url": "Sequence"
     },
     {
+      name:'我爱电影网',
+      type:1,
+      url:'https://jhpc.manduhu.com/j1217.php?url=',
+      ext:{flag:['qiyi','爱奇艺','奇艺','mgtv','芒果','youku','优酷','pptv','PPTV']}
+    },
+    {
       "name": "江湖",
       "type": 1,
-      "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
+      "url": "https://za.kuanjv.com/?url="
     },
     {
       "name": "爱酷",
       "type": 1,
-      "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
+      "url": "http://103.40.240.46/jh/?url="
     }
   ],
   "ijk": [
