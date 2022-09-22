@@ -315,7 +315,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://kvymin.github.io/CatVod/live/Live.txt"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2t2eW1pbi9UVi9SQVcvYnJhbmNoL21hc3Rlci9saXZlL2xpdmUudHh0"
           ]
         }
       ]
