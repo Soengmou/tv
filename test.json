@@ -2,7 +2,7 @@
  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;457412b2afc8c2a6aeff45747cce376f",
  "sites": [
-   { 
+    { 
       "key": "t4public",
       "name":"公共",
       "type": 4,
@@ -10,24 +10,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-   },
-    {
-      "key": "Anfuns",
-      "name": "Anfuns动漫",
-      "type": 3,
-      "api": "csp_Anfuns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "动漫",
-      "name": "樱花动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "Auete",
@@ -78,7 +60,7 @@
       "key": "低端",
       "name": "低端",
       "type": 3,
-      "api": "csp_Ddrk",
+      "api": "csp_Ddys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -196,6 +178,24 @@
       "name": "神马影院",
       "type": 3,
       "api": "csp_Smdyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Anfuns",
+      "name": "Anfuns动漫",
+      "type": 3,
+      "api": "csp_Anfuns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "动漫",
+      "name": "樱花动漫",
+      "type": 3,
+      "api": "csp_Anime1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
