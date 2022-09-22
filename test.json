@@ -372,6 +372,11 @@
       "url": "Sequence"
     },
     {
+      "name": "诺讯",
+      "type": 1,
+      "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
+    },
+    {
       "name": "爱酷",
       "type": 1,
       "url": "http://ck.laobandq.com/3515240842.php?pltfrom=1100&url="
