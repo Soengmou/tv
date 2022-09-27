@@ -128,6 +128,25 @@
       "filterable": 1
     },
     { 
+      "key": "csp_Jianying",
+      "name": "简影（SP）",
+      "type": 3,
+      "api": "csp_JianYing",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext":"https://agit.ai/kvymin/TV/raw/branch/master/txt/Jianying.txt"
+    },
+    {
+       "key": "293",
+       "name": "293",
+       "type": 3,
+       "api": "csp_SP293",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+    },
+    { 
       "key": "t4public",
       "name":"📯公共",
       "type": 4,
