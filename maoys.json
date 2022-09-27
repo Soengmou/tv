@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "Kuaikan",
-      "name": "快看",
+      "name": "⚖快看",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -69,15 +69,6 @@
       "name": "Cokemv",
       "type": 3,
       "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Ikan",
-      "name": "爱看",
-      "type": 3,
-      "api": "csp_IKan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -157,7 +148,7 @@
     },
     {
       "key": "csp_xBPQ_荐片",
-      "name": "⚖荐片",
+      "name": "荐片",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
