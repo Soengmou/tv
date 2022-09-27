@@ -1,7 +1,15 @@
 {
- "wallpaper": "https://picsum.photos/1280/720/?blur=10",
- "spider": "https://agit.ai/kvymin/TV/raw/branch/master/xBPQ/ts0926.jar;md5;8d0287b412b1cc1f8f70a1b475f5f738",
- "sites": [   
+  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/kan926.jar;md5;3d08549a74c36c155755fef80be6248b",
+  "sites": [
+    {
+       "key":"csp_NianYing",
+       "name":"🌐念影",
+       "type":3,
+       "api":"csp_Nianying",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1
+    },    
     {
       "key": "Lezhu_spider",
       "name": "乐猪",
