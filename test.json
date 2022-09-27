@@ -113,7 +113,7 @@
     },
     {
       "key": "csp_xBPQ_荐片",
-      "name": "荐片",
+      "name": "⚖荐片",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -253,7 +253,7 @@
     },
     {
       "key": "csp_xBPQ_师兄影院",
-      "name": "师兄影院",
+      "name": "大师兄",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -263,7 +263,7 @@
     },
     {
       "key": "csp_xBPQ_嗷呜视频",
-      "name": "嗷呜视频",
+      "name": "嗷呜",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -313,7 +313,7 @@
     },
     {
       "key": "csp_xBPQ_真不卡",
-      "name": "️⚖真不卡",
+      "name": "️真不卡",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -403,7 +403,7 @@
     },
     {
       "key": "多多",
-      "name": "多多（采集）",
+      "name": "多多（采）",
       "type": 1,
       "api": "https://www.ddzyz1.com/api.php/provide/vod/",
       "searchable": 1,
