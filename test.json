@@ -1,10 +1,55 @@
 {
  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/xBPQ/ts0926.jar;md5;8d0287b412b1cc1f8f70a1b475f5f738",
- "sites": [
+ "sites": [   
+    {
+      "key": "Lezhu_spider",
+      "name": "乐猪影院",
+      "type": 3,
+      "api": "csp_Lezhu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
+      "key": "csp_77",
+      "name": "酷云七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_AppTT",
+      "name": "图图影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
+      "key": "追剧喵",
+      "name": "追剧喵",
+      "type": 3,
+      "api": "csp_ZJMiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
+      "key": "csp_Bd",
+      "name": "哔嘀影视",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     { 
       "key": "t4public",
-      "name":"公共",
+      "name":"📯公共",
       "type": 4,
       "api":"https://t4.secan.icu/vod?sites=all&ali_token=14ab7929c5724ffd9c3431d8fa19d421&timeout=10", 
       "searchable": 1,
