@@ -119,6 +119,15 @@
       "filterable": 1
     },
     {
+       "key":"csp_NianYing",
+       "name":"念影",
+       "type":3,
+       "api":"csp_Nianying",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1
+    },
+    {
        "key": "293",
        "name": "293",
        "type": 3,
