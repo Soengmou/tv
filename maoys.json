@@ -159,11 +159,11 @@
       "key": "AList",
       "name": "AList",
       "type": 3,
-      "api": "csp_AList",
+      "api": "csp_Alist",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/sub/alist.json"
+      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/sub/Alist.json"
     },
     { 
       "key": "t4public",
