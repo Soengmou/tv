@@ -153,8 +153,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/FongMi/CatVodSpider/raw/main/json/bili.json",
-      "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/sub/Bili.json"
     },
     {
       "key": "AList",
@@ -164,8 +163,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/sub/alist.json",
-      "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/sub/alist.json"
     },
     { 
       "key": "t4public",
