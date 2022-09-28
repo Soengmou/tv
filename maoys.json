@@ -146,14 +146,26 @@
        "filterable": 1
     },
     {
-      "key": "csp_BBB",
-      "name": "哔哩套餐（B站）",
+      "key": "哔哩",
+      "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/sub/Bili.json"
+      "ext": "https://github.com/FongMi/CatVodSpider/raw/main/json/bili.json",
+      "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
+    },
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/sub/alist.json",
+      "jar": "https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
     },
     { 
       "key": "t4public",
