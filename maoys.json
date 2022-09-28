@@ -146,14 +146,14 @@
        "filterable": 1
     },
     {
-      "key":"Gitcafe",
-      "name":"小纸条(SP)",
-      "type":3,
-      "api":"csp_Gitcafe",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"14ab7929c5724ffd9c3431d8fa19d421"
+      "key": "csp_BBB",
+      "name": "哔哩套餐（B站）",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/sub/Bili.json"
     },
     { 
       "key": "t4public",
