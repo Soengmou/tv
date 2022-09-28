@@ -119,6 +119,15 @@
       "filterable": 1
     },
     {
+      "key":"mtv_pc_360" ,
+      "name":"360",
+      "type":3,
+      "api":"csp_SP360",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
        "key":"csp_NianYing",
        "name":"念影",
        "type":3,
@@ -135,6 +144,16 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1
+    },
+    {
+      "key":"Gitcafe",
+      "name":"小纸条(SP)",
+      "type":3,
+      "api":"csp_Gitcafe",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"14ab7929c5724ffd9c3431d8fa19d421"
     },
     { 
       "key": "t4public",
@@ -500,9 +519,14 @@
       "url": "Sequence"
     },
     {
-      "name": "诺讯",
-      "type": 1,
-      "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
+      "name":"aiku",
+      "type":1,
+      "url":"https://cache.json.icu/home/api?type=ys&uid=1862179&key=aeovBCFINPRUZ34589&url="
+    },
+    {
+      "name":"线路NX",
+      "type":1,
+      "url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
     },
     {
       "name": "爱酷",
