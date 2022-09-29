@@ -182,7 +182,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
+      "ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html",
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/XBiu.jar"
     },
     {
       "key":"csp_xb_lgyy",
@@ -192,7 +193,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
+      "ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html",
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/XBiu.jar"
     },
     {
       "key":"csp_xbb_达达龟",
@@ -202,7 +204,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"
+      "ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html",
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/XBiu.jar"
     },
     {
       "key": "csp_xBPQ_胖虎",
