@@ -3,7 +3,7 @@
   [
     {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
     {"host":"*", "rule":["365yg.com", "/media-video-", "/video/tos/cn/"]}
-      ],
+  ],
   "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/kan926.jar;md5;a3c557e3797720bebd3ec8b6ded384b5",
   "sites": [
     {
