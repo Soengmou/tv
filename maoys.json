@@ -1,6 +1,5 @@
 { 
-  "rules": 
-  [
+  "rules":[
     {
       "host":"*","rule":["douyinvod.com","/video/tos/cn/"]
     },
