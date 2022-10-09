@@ -131,6 +131,13 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1
+    },    
+    {
+      "key": "drpy_js_l0l",
+      "name": "l0l",
+      "type": 3,
+      "api": "https://agit.ai/kvymin/JS/raw/branch/master/drpy.js",
+      "ext": "https://agit.ai/kvymin/dr_py/raw/branch/master/js/l0l.js"
     },
     {
        "key":"csp_NianYing",
