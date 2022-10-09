@@ -140,6 +140,20 @@
       "ext": "https://agit.ai/kvymin/dr_py/raw/branch/master/js/l0l.js"
     },
     {
+      "key": "drpy_js_剧白白",
+      "name": "剧白白",
+      "type": 3,
+      "api": "https://agit.ai/kvymin/JS/raw/branch/master/drpy.js",
+      "ext": "https://agit.ai/kvymin/dr_py/raw/branch/master/js/剧白白.js"
+    },
+    {
+      "key": "drpy_js_剧白白",
+      "name": "剧白白",
+      "type": 3,
+      "api": "https://agit.ai/kvymin/JS/raw/branch/master/drpy.js",
+      "ext": "https://agit.ai/kvymin/dr_py/raw/branch/master/js/剧白白.js"
+    },
+    {
        "key":"csp_NianYing",
        "name":"念影",
        "type":3,
