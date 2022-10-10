@@ -145,18 +145,18 @@
       "ext": "https://agit.ai/kvymin/dr_py/raw/branch/master/js/l0l.js"
     },
     {
-      "key": "drpy_js_剧白白",
-      "name": "剧白白",
-      "type": 3,
-      "api": "https://agit.ai/kvymin/JS/raw/branch/master/drpy.js",
-      "ext": "https://agit.ai/kvymin/dr_py/raw/branch/master/js/剧白白.js"
-    },
-    {
       "key": "drpy_js_牛马TV",
       "name": "牛马TV",
       "type": 3,
       "api": "https://agit.ai/kvymin/JS/raw/branch/master/drpy.js",
       "ext": "https://agit.ai/kvymin/dr_py/raw/branch/master/js/牛马TV.js"
+    },
+    {
+      "key": "drpy_js_菜狗",
+      "name": "菜狗",
+      "type": 3,
+      "api": "https://agit.ai/kvymin/JS/raw/branch/master/drpy.js",
+      "ext": "https://agit.ai/kvymin/dr_py/raw/branch/master/js/菜狗.js"
     },
     {
       "key": "drpy_js_百忙无果",
