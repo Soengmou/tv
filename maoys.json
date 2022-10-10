@@ -82,15 +82,6 @@
       "filterable": 1
     },
     {
-      "key": "3EDY",
-      "name": "3EDY",
-      "type": 3,
-      "api": "csp_EEEDY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "KanSJ_spider",
       "name": "看视界",
       "type": 3,
@@ -121,6 +112,7 @@
     //{"key": "csp_Cokemv","name": "Cokemv","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
     //{"key":"csp_NianYing","name":"念影","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
     //{"key": "293","name": "293","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
+    //{"key": "3EDY","name": "3EDY","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "drpy_js_l0l",
       "name": "l0l",
@@ -351,16 +343,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"http://www.cx99999.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"
-    },
-    {
-      "key": "csp_xBPQ_555dy",
-      "name": "555电影",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||福利$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://www.555yy1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"
     },
     {
       "key": "csp_xBPQ_app",
