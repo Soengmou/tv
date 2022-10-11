@@ -19,7 +19,7 @@
       "filterable": 1
     },
     {
-      "key": "低端1",
+      "key": "低端",
       "name": "低端嗅探",
       "type": 3,
       "api": "csp_Ddrk",
