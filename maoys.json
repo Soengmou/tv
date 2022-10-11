@@ -213,6 +213,16 @@
       "filterable": 0
     },
     {
+      "key": "csp_xpath_libv",
+      "name": "Libvio(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/XPathMacFilter/libvp.json"
+    },
+    {
       "key":"csp_xb_ysgc",
       "name":"影视工厂（XBiu）",
       "type":3,
