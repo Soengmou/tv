@@ -20,15 +20,15 @@
     },
 
    {
-         "key": "低端1",
-               "name": "低端嗅探",
-                     "type": 3,
-                           "api": "csp_Ddrk",
-                                 "searchable": 1,
-                                       "quickSearch": 1,
-                                             "click": "ddys.tv;#vjsp > button",
-                                                   "filterable": 1
-                                                       },
+      "key": "低端1",
+      "name": "低端嗅探",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "click": "ddys.tv;#vjsp > button",
+      "filterable": 1
+    },
     {
       "key": "csp_77",
       "name": "七七",
@@ -55,6 +55,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "农民",
+      "name": "农民",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gst163.github.io/s/nongminyingshi.json",
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/cs.jar"
     },
     {
       "key": "csp_Bttoo",
