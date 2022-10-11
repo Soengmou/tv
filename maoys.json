@@ -527,14 +527,64 @@
       "ext": "{\"免嗅\":\"1\",\"副标题\":\"></i>&&</span>\",\"导演\": \"导演：&&</p\",\"主演\": \"主演：&&</p\",\"简介\": \"zkjj_a\\\"&&</span\",\"播放数组\":\"class=\\\"player&&</ul>\",\"播放标题\":\">&&</a\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3\",\"分类url\":\"https://www.reboku.cc/k/{cateId}-{catePg}.html\",\"年份\":\"2000-2022\",\"筛选\":\"0\"}"
     },
     {
-      "key": "多多",
-      "name": "多多（采）",
-      "type": 1,
-      "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+      "key": "Gitcafe",
+      "name": "小纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "categories": [
+      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+    },
+    {
+      "key": "zhaozy",
+      "name": "找资源(仅搜索)",
+      "type": 3,
+      "api": "csp_FindZY",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+    },
+    {
+      "key": "AliPS",
+      "name": "盘搜(仅搜索)",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      },
+      {
+        "key": "Yiso",
+        "name": "一搜(仅搜索)",
+        "type": 3,
+        "api": "csp_Yiso",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      },
+      {
+        "key": "Upyunso",
+        "name": "Upyunso(仅搜索)",
+        "type": 3,
+        "api": "csp_Upyunso",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "81461f2e9d0b4ffb86612db403824b8a"    
+     },
+     {
+       "key": "多多",
+       "name": "多多（采）",
+       "type": 1,
+       "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "categories": [
         "国产剧",
         "日韩剧",
         "港台剧",
