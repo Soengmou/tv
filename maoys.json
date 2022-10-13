@@ -156,11 +156,16 @@
       "ext": "https://agit.ai/kvymin/dr_py/raw/branch/master/js/菜狗.js"
     },
     {
-      "key": "drpy_js_百忙无果",
-      "name": "百忙无果",
+      "key": "csp_xf_cs",
+      "name": "️FREEOK",
       "type": 3,
-      "api": "https://agit.ai/kvymin/JS/raw/branch/master/drpy.js",
-      "ext": "https://agit.ai/kvymin/dr_py/raw/branch/master/js/百忙无果.js"
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#剧集$2#综艺$4#动漫$3#今日更新$38\",\"分类url\":\"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---/\",
+\"年份\":\"1990-2022\",
+\"筛选\":\"1\"}"
     },
     {
       "key": "drpy_js_玄天",
