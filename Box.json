@@ -1,15 +1,6 @@
 {  
   "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;695c8e045a1de669dbb104678ca87773",
-  "sites": [    
-    { 
-       "key": "t4public",
-       "name":"✨T4公共",
-       "type": 4,
-       "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0
-    }
+  "sites": [
     {"key": "Zjdr","name": "追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "Czsapp","name": "厂长","type":3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
