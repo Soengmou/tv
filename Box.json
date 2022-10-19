@@ -9,11 +9,10 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 0
-    },
+    }
     {"key": "Zjdr","name": "追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "Czsapp","name": "厂长","type":3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "Gitcafe","name": "纸条","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "IKan","name": "爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "Kuaikan","name": "快看","type":3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "Kunyu","name": "七七","type":3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
