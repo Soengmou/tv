@@ -150,7 +150,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;695c8e045a1de669dbb104678ca87773
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;695c8e045a1de669dbb104678ca87773"
     },
     //{"key":"csp_NianYing","name":"念影","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
     //{"key": "293","name": "293","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
