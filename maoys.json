@@ -85,7 +85,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    },    
+    {"key": "LiteApple","name": "苹果","type":3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;695c8e045a1de669dbb104678ca87773"},
     {"key": "Zxzj","name": "在线","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;695c8e045a1de669dbb104678ca87773"},
     {"key": "LiteApple","name": "苹果","type":3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;695c8e045a1de669dbb104678ca87773"},
     {"key": "Lib","name": "Libvio","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;695c8e045a1de669dbb104678ca87773"},
