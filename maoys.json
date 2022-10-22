@@ -116,7 +116,8 @@
     },
     {"key": "LiteApple","name": "苹果","type":3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "Lib","name": "Libvio","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "IKan","name": "爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "IKan","name": "爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"},
     {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "Kuaikan",
@@ -188,7 +189,8 @@
       "api": "csp_Smdyy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"
     },
     {
       "key": "mtv_pc_简影影视", 
