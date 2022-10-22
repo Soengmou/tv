@@ -83,8 +83,7 @@
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"
+      "filterable": 1
     },
     {
       "key": "农民",
@@ -105,13 +104,20 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },    
-    {"key": "LiteApple","name": "苹果","type":3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"},
-    {"key": "Zxzj","name": "在线","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"},
-    {"key": "LiteApple","name": "苹果","type":3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"},
-    {"key": "Lib","name": "Libvio","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"},
-    {"key": "IKan","name": "爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"},
-    {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"},
+    },
+    {
+    "key": "Zxzj",
+    "name": "在线",
+    "type":3,
+    "api": "csp_Zxzj",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    },
+    {"key": "LiteApple","name": "苹果","type":3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "Lib","name": "Libvio","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "IKan","name": "爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "Kuaikan",
       "name": "快看",
@@ -119,8 +125,7 @@
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"
+      "filterable": 1
     },
     {
       "key": "追剧喵",
@@ -183,8 +188,7 @@
       "api": "csp_Smdyy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"
+      "filterable": 1
     },
     {
       "key": "mtv_pc_简影影视", 
@@ -197,8 +201,8 @@
       "playerType": "2", 
       "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"
         }, 
-    {"key": "293","name": "293","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
-    //{"key": "3EDY","name": "3EDY","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},
+   // {"key": "293","name": "293","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "3EDY","name": "3EDY","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "drpy_js_l0l",
       "name": "l0l",
@@ -719,30 +723,39 @@
       "type": 2,
       "url": "Sequence"
     },
-    {
-      "name": "juhe",
+{
+      "name": "可遇不可求",
       "type": 1,
-      "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
-    },
-    {
-      "name":"线路NX",
-      "type":1,
-      "url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
-    },
-    {
-      "name": "长安",
-      "type": 1,
-      "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
-    },
-    {
-      "name":"aiku",
-      "type":1,
-      "url":"https://cache.json.icu/home/api?type=ys&uid=1862179&key=aeovBCFINPRUZ34589&url="
+      "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
     },
     {
       "name": "bozrc",
-      "type": 1,
-      "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -763,8 +776,16 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ]
+        ],
+        "header": {
+          "User-Agent": ""
+        }
       }
+    },
+    {
+      "name": "rx2",
+      "type": 1,
+      "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     }
   ],
   "ijk": [
