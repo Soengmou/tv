@@ -27,7 +27,7 @@
       ]
     }
   ],
-  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/kan926.jar;md5;a3c557e3797720bebd3ec8b6ded384b5",
+  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/1022.jar;md5;0de800421c4ae17db9760784b1b566a9",
   "sites": [
     {
       "key": "Lezhu_spider",
@@ -167,7 +167,15 @@
       "quickSearch":1,
       "filterable":1
     },    
-    {"key": "csp_dd5555","name": "555","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {
+     "key": "csp_dd5555",
+     "name": "555",
+     "type": 3,
+     "api": "csp_Dy555",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
+    },
     {
       "key": "csp_Smdyy",
       "name": "神马",
@@ -595,7 +603,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "ext": "81461f2e9d0b4ffb86612db403824b8a"
     },
     {
       "key": "zhaozy",
@@ -605,7 +613,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "ext": "81461f2e9d0b4ffb86612db403824b8a"
     },
     {
       "key": "AliPS",
@@ -615,7 +623,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "ext": "81461f2e9d0b4ffb86612db403824b8a"
       },
       {
         "key": "Yiso",
@@ -625,7 +633,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+        "ext": "81461f2e9d0b4ffb86612db403824b8a"
       },
       {
         "key": "Upyunso",
@@ -635,7 +643,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "f6fcd2d1c0e54601805413721d89e0ca"    
+        "ext": "81461f2e9d0b4ffb86612db403824b8a"    
      },
      {
        "key": "多多",
@@ -669,7 +677,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "ext": "3865f0ab8f124688ad786a262af9b940"
     }
   ],
   "lives": [
@@ -702,9 +710,29 @@
       "url": "Sequence"
     },
     {
-      "name": "解析",
+      "name": "juhe",
       "type": 1,
-      "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+      "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+    },
+    {
+      "name":"线路NX",
+      "type":1,
+      "url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
+    },
+    {
+      "name": "长安",
+      "type": 1,
+      "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
+    },
+    {
+      "name":"aiku",
+      "type":1,
+      "url":"https://cache.json.icu/home/api?type=ys&uid=1862179&key=aeovBCFINPRUZ34589&url="
+    },
+    {
+      "name": "bozrc",
+      "type": 1,
+      "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=",
       "ext": {
         "flag": [
           "qq",
@@ -717,29 +745,16 @@
           "mgtv",
           "芒果",
           "letv",
-          "乐视",
+          "leshi",
+          "LS",
           "pptv",
           "PPTV",
           "sohu",
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
+        ]
       }
-    },
-    {
-      "name": "rx2",
-      "type": 1,
-      "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
-    },
-    {
-      "name":"江湖",
-      "type":1,
-      "url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=",
-      "ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}
     }
   ],
   "ijk": [
