@@ -186,8 +186,18 @@
       "filterable": 1,
       "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"
     },
-    //{"key":"csp_NianYing","name":"念影","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
-    //{"key": "293","name": "293","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {
+      "key": "mtv_pc_简影影视", 
+      "name": "简影影视", 
+      "type": 3, 
+      "api": "csp_JianYing", 
+      "filterable": 1, 
+      "quickSearch": 1, 
+      "searchable": 1, 
+      "playerType": "2", 
+      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg"
+        }, 
+    {"key": "293","name": "293","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
     //{"key": "3EDY","name": "3EDY","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "drpy_js_l0l",
