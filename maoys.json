@@ -27,7 +27,7 @@
       ]
     }
   ],
-  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/1022.jar;md5;0de800421c4ae17db9760784b1b566a9",
+  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/1023.jar;md5;48c4cbca73b33274fea2d156603a6b0b",
   "sites": [
     {
       "key": "Lezhu_spider",
@@ -619,7 +619,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
     },
     {
       "key": "zhaozy",
@@ -629,7 +629,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
     },
     {
       "key": "AliPS",
@@ -639,7 +639,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "81461f2e9d0b4ffb86612db403824b8a"
+      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
       },
       {
         "key": "Yiso",
@@ -649,7 +649,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "81461f2e9d0b4ffb86612db403824b8a"
+        "ext": "f6fcd2d1c0e54601805413721d89e0ca"
       },
       {
         "key": "Upyunso",
@@ -659,7 +659,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "81461f2e9d0b4ffb86612db403824b8a"    
+        "ext": "f6fcd2d1c0e54601805413721d89e0ca"    
      },
      {
        "key": "多多",
