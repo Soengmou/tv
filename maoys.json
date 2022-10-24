@@ -1,32 +1,15 @@
 { 
-   "rules": [
-    {
-      "host": "*",
-      "rule": [
-        "default.365yg.com"
-      ]
-    },
-    {
-      "host": "dyxs20.com",
-      "rule": [
-        ".m3u8"
-      ]
-    },
-    {
-      "host": "www.agemys.cc",
-      "rule": [
-        "cdn-tos",
-        "obj/tos-cn"
-      ]
-    },
-    {
-      "host": "zjmiao.com",
-      "rule": [
-        "play.videomiao.vip/API.php",
-        "time="
-      ]
-    }
-  ],
+"rules": [
+  {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
+  {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
+  {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
+  {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]},
+  {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mkv"]},
+  {"host":"*", "rule":["/m3u8.php?path=", ".m3u8"]},
+  {"host":"*", "rule":["/API.php?time=", "key=", "path=", ".m3u8"]},
+  {"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
+  {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
+],
   "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/1023.jar;md5;48c4cbca73b33274fea2d156603a6b0b",
   "sites": [
     {
@@ -65,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;2a121a5d659dedcfe40efa0e316c9bab"
     },
     {
       "key": "csp_AppTT",
@@ -117,7 +100,7 @@
     {"key": "LiteApple","name": "苹果","type":3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "Lib","name": "Libvio","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "IKan","name": "爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,
-      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"},
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;2a121a5d659dedcfe40efa0e316c9bab"},
     {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
       "key": "Kuaikan",
@@ -190,7 +173,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a"
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;2a121a5d659dedcfe40efa0e316c9bab"
     },
     {
       "key": "mtv_pc_简影影视", 

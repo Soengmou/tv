@@ -1,17 +1,141 @@
 {  
-  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;7b3db472894cc021c4b19daa26e1282a",
+  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;2a121a5d659dedcfe40efa0e316c9bab",
   "sites": [
-    {"key": "Czsapp","name": "厂长","type":3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "Kuaikan","name": "快看","type":3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "Kunyu","name": "七七","type":3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "SP360","name": "SP360","type":3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "Smdyy","name": "神马","type":3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "Zxzj","name": "在线","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "Zjdr","name": "追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "Auete","name": "奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "IKan","name": "爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "Lib","name": "Libvio","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "LiteApple","name": "小苹果","type":3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {
+      "key": "Zjdr",
+      "name": "追剧达人",
+      "type": 3,
+      "api": "csp_Zjdr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Dy555",
+      "name": "555",
+      "type": 3,
+      "api": "csp_Dy555",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Ddys",
+      "name": "低端",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "AppTT",
+      "name": "图图",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Auete",
+      "name": "奥特",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Cokemv",
+      "name": "可乐",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Czsapp",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "IKan",
+      "name": "爱看",
+      "type": 3,
+      "api": "csp_IKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Kuaikan",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Kunyu",
+      "name": "七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Lib",
+      "name": "Libvio",
+      "type": 3,
+      "api": "csp_Lib",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "LiteApple",
+      "name": "苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Smdyy",
+      "name": "神马",
+      "type": 3,
+      "api": "csp_Smdyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "SP360",
+      "name": "SP360",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Zxzj",
+      "name": "在线",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "csp_Xpath_lezhu",
       "name": "乐猪影视〔XPM〕",
@@ -532,7 +656,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2t2eW1pbi9UVi9yYXcvYnJhbmNoL21hc3Rlci9saXZlL2xpdmUudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
           ]
         }
       ]
