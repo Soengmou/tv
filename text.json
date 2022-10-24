@@ -1,14 +1,6 @@
 {
   "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;2a121a5d659dedcfe40efa0e316c9bab",
   "sites": [
-      {
-      "key": "madouse.la",
-      "name": "成人01",
-      "type": 1,
-      "api": "http://madouse.la/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
     {
       "key": "Zjdr",
       "name": "追剧",
