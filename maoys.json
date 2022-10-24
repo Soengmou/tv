@@ -198,6 +198,29 @@
       "filterable": 1
     },
     {
+      "key": "3EDY", 
+      "name": "3EDY", 
+      "type": 3, 
+      "api": "csp_EEEDY", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "playerType": 2,
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/3EDY.jar;md5;22457da8260b31204a0e322fae0c6d6f"
+    }, 
+    {
+      "key": "mtv_pc_简影影视", 
+      "name": "简影", 
+      "type": 3, 
+      "api": "csp_JianYing", 
+      "filterable": 1, 
+      "quickSearch": 1, 
+      "searchable": 1, 
+      "playerType": "2", 
+      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTA1VDEwOjAwOjU5LjA3KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiNTg3ODEzNDlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiNTkwOWIyYTMtNTUzOS00NWE3LTg2MjUtODIwZmIwM2M5YzUwIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6IjIwMjItMTAtMDVUMTA6MDA6NTkuMDcrMDg6MDAiLCJyZWdfa2V5IjoiNzMwODE2MjAiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY2MzIxNzQ3LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.P2etFz7ILSDaL4AEUs5-z9E7Vlt0LCJE-UZ1hUa5fYg",
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/3EDY.jar;md5;22457da8260b31204a0e322fae0c6d6f"
+    }, 
+    {
       "key":"csp_xb_lgyy",
       "name":"📯蓝光",
       "type":3,
@@ -206,6 +229,20 @@
       "quickSearch":1,
       "filterable":0,
       "ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
+    },
+    {
+      "key": "drpy_js_喵喵", 
+      "name": "2345", 
+      "type": 3, 
+      "api": "https://agit.ai/kvymin/JS/raw/branch/master/drpy.js",
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/喵喵.js"
+        }, 
+    {
+      "key": "drpy_js_l0l",
+      "name": "l0l",
+      "type": 3,
+      "api": "https://agit.ai/kvymin/JS/raw/branch/master/drpy.js",
+      "ext": "https://agit.ai/kvymin/dr_py/raw/branch/master/js/l0l.js"
     },
     {
       "key": "csp_xBPQ_胖虎",
