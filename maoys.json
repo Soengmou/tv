@@ -198,6 +198,16 @@
       "filterable": 1
     },
     {
+      "key":"csp_xb_lgyy",
+      "name":"📯蓝光",
+      "type":3,
+      "api":"csp_XBiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
+    },
+    {
       "key": "Bili",
       "name": "哔哩",
       "type": 3,
