@@ -208,6 +208,28 @@
       "ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
     },
     {
+      "key": "csp_xBPQ_胖虎",
+      "name": "胖虎",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/xBPQ/胖虎影视.json",
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/1023.jar;md5;48c4cbca73b33274fea2d156603a6b0b"
+    },
+    {
+      "key": "csp_xBPQ_荐片",
+      "name": "荐片",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/xBPQ/荐片.json",
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/1023.jar;md5;48c4cbca73b33274fea2d156603a6b0b"
+    },
+    {
       "key": "Bili",
       "name": "哔哩",
       "type": 3,
