@@ -10,7 +10,7 @@
  {"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
   {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
  ],
-  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;bfc453f731f22ba0841d8feec7f5198d",
+  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;456e591b3f88da9e9398e33d657d2a9a",
   "sites": [
     {
       "key": "Zjdr",
