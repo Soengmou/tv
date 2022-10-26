@@ -1,7 +1,17 @@
 {
   "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/custom_spider.txt;md5;bfc453f731f22ba0841d8feec7f5198d",
   "sites": [
-      {
+    {
+      "key": "Lezhu_spider",
+      "name": "⚖乐猪",
+      "type": 3,
+      "api": "csp_Lezhu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/1023.jar;md5;48c4cbca73b33274fea2d156603a6b0b"
+    },  
+    {
       "key": "蓝光",
       "name": "蓝光",
       "type": 3,
@@ -18,16 +28,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "Lezhu_spider",
-      "name": "⚖乐猪",
-      "type": 3,
-      "api": "csp_Lezhu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/1023.jar;md5;48c4cbca73b33274fea2d156603a6b0b"
     },
     {
       "key": "农民",
