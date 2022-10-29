@@ -10,7 +10,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/1023.jar;md5;48c4cbca73b33274fea2d156603a6b0b"
-    },  
+    },
+    {
+      "key":"Pang",
+      "name":"胖虎",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"c41fdb671b20925c76fa9b6ff8bad027", 
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/1029.jar;md5;01f3d08b2ed276eeafd7210d22eeaf8d"
+    },
     {
       "key": "蓝光",
       "name": "蓝光",
@@ -47,7 +58,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/kvymin/TV/raw/branch/master/sub/nongminyingshi.json",
-      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/cs.jar"
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/cs.jar;md5;5a7488362fc669c8f3e41dd094884948"
     },
     {
       "key": "csp_Bttoo",
