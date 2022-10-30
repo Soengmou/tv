@@ -4,7 +4,7 @@
          "group":"redirect",
          "channels":[
             {
-               "name":"redirect",
+               "name":"直播01",
                "urls":[
                   "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
                ]
@@ -18,21 +18,13 @@
          "logo":"",
          "epg":"http://epg.51zmt.top:8000/api/diyp/",
 		 "ua":""
-      },
+     },
 	  {
          "name":"线上Txt",
          "type":0, 
          "url":"https://agit.ai/kvymin/TV/raw/branch/master/txt/live.txt",
          "logo":"",
          "epg":"http://epg.51zmt.top:8000/api/diyp/epg.php",
-		 "ua":""
-      },
-	  {
-         "name":"本地M3u",
-         "type":0,
-         "url":"file://xbiu/txt/全国各地直播源.m3u",
-         "logo":"",
-         "epg":"https://epg.112114.xyz/",
 		 "ua":""
       }
    ]
