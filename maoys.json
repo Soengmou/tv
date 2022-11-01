@@ -353,7 +353,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://home.jundie.top:81/ray/json/bili.json"
+      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/sub/Bili.json"
     },
     {
       "key": "Gitcafe",
