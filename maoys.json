@@ -12,6 +12,46 @@
       "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/1023.jar;md5;48c4cbca73b33274fea2d156603a6b0b"
     },
     {
+      "key":"csp_fant",
+      "name":"饭团",
+      "api":"csp_Fantuan",
+      "type":3,
+      "filterable":1,
+      "quickSearch":1,
+      "searchable":1, 
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/xo1031.jar;md5;5f8fc214f8bda7598a1c4387f7062f2e"
+    },
+    {
+      "key":"csp_Tkys",
+      "name": "天空",
+      "type": 3,
+      "api": "csp_Tkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1, 
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/xo1031.jar;md5;5f8fc214f8bda7598a1c4387f7062f2e"
+    },
+    {
+      "key":"csp_Nkdy",
+      "name":"南柯",
+      "type":3,
+      "api":"csp_Nkdy",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1, 
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/xo1031.jar;md5;5f8fc214f8bda7598a1c4387f7062f2e"
+    },
+    {
+      "key":"csp_Dy1010",
+      "name":"Dy1010",
+      "type":3,
+      "api":"csp_Dy1010",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1, 
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/xo1031.jar;md5;5f8fc214f8bda7598a1c4387f7062f2e"
+    },
+    {
       "key":"Pang",
       "name":"胖虎",
       "type":"3",
