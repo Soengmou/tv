@@ -61,16 +61,6 @@
       "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/xo1031.jar;md5;5f8fc214f8bda7598a1c4387f7062f2e"
     },
     {
-      "key":"csp_Xxys",
-      "name":"小熊",
-      "type":3,
-      "api":"csp_Xxys",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1, 
-      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/xo1031.jar;md5;5f8fc214f8bda7598a1c4387f7062f2e"
-      },
-    {
       "key":"Pang",
       "name":"胖虎",
       "type":"3",
@@ -275,6 +265,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key":"csp_Xxys",
+      "name":"小熊",
+      "type":3,
+      "api":"csp_Xxys",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1, 
+      "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/xo1031.jar;md5;5f8fc214f8bda7598a1c4387f7062f2e"
     },
     {
       "key": "3EDY", 
