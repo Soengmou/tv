@@ -12,6 +12,15 @@
       "jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/1023.jar;md5;48c4cbca73b33274fea2d156603a6b0b"
     },
     {
+      "key": "AppTT",
+      "name": "图图",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key":"csp_fant",
       "name":"饭团",
       "api":"csp_Fantuan",
@@ -164,15 +173,6 @@
       "name": "低端",
       "type": 3,
       "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "AppTT",
-      "name": "图图",
-      "type": 3,
-      "api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
