@@ -139,7 +139,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://home.jundie.top:81/ray/json/bili.json"
+            "ext": "https://agit.ai/kvymin/TV/raw/branch/master/sub/bili.json"
         },
         {
             "key": "Cokemv",
@@ -189,7 +189,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "f6fcd2d1c0e54601805413721d89e0ca"
         },
         {
             "key": "Lib",
@@ -239,7 +239,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "f6fcd2d1c0e54601805413721d89e0ca"
         },
         {
             "key": "AliPS",
@@ -249,7 +249,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "f6fcd2d1c0e54601805413721d89e0ca"
         },
         {
             "key": "Zxzj",
@@ -263,13 +263,13 @@
         },
         {
             "key": "push_agent",
-            "name": "PushAgent",
+            "name": "推送",
             "type": "3",
             "api": "csp_PushAgent",
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "ext": "http://刚刚.live/json/alitoken.json"
+            "ext": "f6fcd2d1c0e54601805413721d89e0ca"
         }
     ],
     "lives": [
