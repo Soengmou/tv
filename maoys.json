@@ -4,8 +4,6 @@
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2t2eW1pbi9UVi9yYXcvYnJhbmNoL21hc3Rlci9saXZlL2xpdmUudHh0"]}]}],
 
 "sites":[
-
-{"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu","name":"乐猪","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -17,9 +15,10 @@
 {"key":"Yanet","name":"鸭奈飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/cs.jar;md5;66ff55d33c20f2465e3b77a3da076eab"},
 {"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/cs.jar;md5;66ff55d33c20f2465e3b77a3da076eab"},
 {"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar": "https://agit.ai/kvymin/TV/raw/branch/master/jar/cs.jar;md5;66ff55d33c20f2465e3b77a3da076eab"},
+{"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Zjdr","name":"追剧","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Zjdr","name":"追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"Bttoo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
@@ -44,7 +43,7 @@
 {"key":"csp_Mjxq","name":"美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"网红直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Dm84","name":"动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Anime1","name":"日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Anime1","name":"樱花动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anfuns","name":"Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"douban2","name":"🅱豆瓣荐片","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_trj","name": "唐人街","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
