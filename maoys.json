@@ -1,11 +1,7 @@
 {
 "spider":"https://agit.ai/kvymin/TV/raw/branch/master/jar/xo1102.jar;md5;9fbbd6626f9c5608e54680258922eb73",
 
-"lives": [
-{"name":"直播01","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","logo":"","epg":"http://epg.51zmt.top:8000/e.xml","ua":""},
-{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2t2eW1pbi9UVi9yYXcvYnJhbmNoL21hc3Rlci9saXZlL2xpdmUudHh0"]}]},
-{"name":"直播02","type":0,"url":"https://ghproxy.com/https://raw.fastgit.org/vamoschuck/TV/main/M3U","logo":"http://epg.51zmt.top:8000/api/diyp/","epg":"http://epg.51zmt.top:8000/api/diyp/","ua":""}
-],
+"lives": [b{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2t2eW1pbi9UVi9yYXcvYnJhbmNoL21hc3Rlci9saXZlL2xpdmUudHh0"]}]}],
 
 
 "sites":[
