@@ -1,31 +1,31 @@
 {
-   "lives":[
-      {
-         "group":"redirect",
-         "channels":[
-            {
-               "name":"直播01",
-               "urls":[
-                  "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
-               ]
-            }
-         ]
-      },
-      {
-         "name":"线上m3u",
-         "type":0, 
-         "url":"https://agit.ai/kvymin/TV/raw/branch/master/txt/live.m3u",
-         "logo":"",
-         "epg":"http://epg.51zmt.top:8000/api/diyp/",
-		 "ua":""
-     },
-	  {
-         "name":"线上Txt",
-         "type":0, 
-         "url":"https://agit.ai/kvymin/TV/raw/branch/master/txt/live.txt",
-         "logo":"",
-         "epg":"http://epg.51zmt.top:8000/api/diyp/epg.php",
-		 "ua":""
-      }
-   ]
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL3JlZGlyZWN0LnR4dA=="
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TXT",
+      "type": 0,
+      "url": "https://agit.ai/kvymin/TV/raw/branch/master/live/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "",
+      "ua": ""
+    },
+    {
+      "name": "M3U",
+      "type": 0,
+      "url": "https://agit.ai/kvymin/TV/raw/branch/master/live/live.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}",
+      "logo": "",
+      "ua": ""
+    }
+  ]
 }
