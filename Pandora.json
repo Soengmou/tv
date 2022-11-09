@@ -87,7 +87,7 @@
         },
         {
             "key":"3EDY",
-            "name":"3EDY(EXO)",
+            "name":"3EDY",
             "type":3,
             "api":"csp_EEEDY",
             "playerType":2,
@@ -97,7 +97,7 @@
         },
         {
             "key":"csp_Wmkk",
-            "name":"完美看看",
+            "name":"完美",
             "api":"csp_Wmkk",
             "type":3,
             "filterable":1,
@@ -180,7 +180,7 @@
         },
         {
             "key":"在线之家",
-            "name":"在线之家",
+            "name":"在线",
             "type":3,
             "api":"csp_Zxzj",
             "searchable":1,
@@ -189,7 +189,7 @@
         },
         {
             "key":"NoSearch_csp_BBB",
-            "name":"哔哩哔哩",
+            "name":"哔哩",
             "type":3,
             "api":"csp_Bili",
             "searchable":0,
@@ -218,7 +218,7 @@
         },
         {
             "key":"dm77_spider",
-            "name":"齐齐动漫",
+            "name":"动漫",
             "api":"csp_DM77",
             "type":3,
             "filterable":1,
@@ -228,7 +228,7 @@
         },
         {
             "key":"NoSearch_Yj1211_spider",
-            "name":"直播聚合",
+            "name":"直播",
             "api":"csp_Yj1211",
             "type":3,
             "filterable":1,
