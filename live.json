@@ -12,9 +12,17 @@
       ]
     },
     {
-      "name": "TXT",
+      "name": "魔盒",
       "type": 0,
       "url": "https://agit.ai/kvymin/TV/raw/branch/master/live/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "",
+      "ua": ""
+    },
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://agit.ai/kvymin/TV/raw/branch/master/live/tvlive.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "",
       "ua": ""
