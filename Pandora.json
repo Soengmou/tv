@@ -9,21 +9,12 @@
                     "name":"live",
                     "urls":[
                         "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvUWlhb0ppNi9GcmVlRC9tYXN0ZXIvbGl2ZS50eHQ="
-                    ]
-                }
-            ]
+          ]
         }
+      ],
+      "epg":"http://epg.51zmt.top:8000/api/diyp/"
     ],
     "sites":[
-         {
-            "key": "t4_搜片",
-            "name": "📡搜片",
-            "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&timeout=7",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key":"Relax",
             "name":"轻松",
