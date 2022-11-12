@@ -17,8 +17,7 @@
                         "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvUWlhb0ppNi9GcmVlRC9tYXN0ZXIvbGl2ZS50eHQ="
           ]
         }
-      ],
-      "epg":"http://epg.51zmt.top:8000/api/diyp/"
+      ]
     ],
     "sites":[
         {
