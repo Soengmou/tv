@@ -15,6 +15,10 @@
     }
   ],
   "sites": [
+  {"key":"csp_SP360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"teng","name":"腾讯","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1"},
+{"key":"ai","name":"爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
+{"key":"MGT","name":"芒果","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "csp_xBPQ_LIBVIO",
       "name": "LIBVIO",
