@@ -51,15 +51,6 @@
         "quickSearch":1,
         "filterable":1
     },
-    {"key": "csp_XBPQ_南瓜影视",
-      "name": "南瓜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"
-    },
     {
       "key": "csp_xb_lez",
       "name": "乐猪(XBiu)",
@@ -496,16 +487,6 @@
       "ext": "https://agit.ai/kvymin/TV/raw/branch/master/xBPQ/爱看影视.json"
     },
     {
-      "key": "csp_xBPQ_乐猪TV",
-      "name": "乐猪TV",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/kvymin/TV/raw/branch/master/xBPQ/乐猪TV.json"
-    },
-    {
       "key": "csp_xBPQ_城市电影",
       "name": "城市电影",
       "type": 3,
@@ -658,7 +639,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "小纸条(新)",
+      "name": "小纸条",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
