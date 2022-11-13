@@ -14,7 +14,7 @@
     {
       "name": "魔盒",
       "type": 0,
-      "url": "https://agit.ai/kvymin/TV/raw/branch/master/live/iptv.m3u",
+      "url": "https://agit.ai/kvymin/TV/raw/branch/master/live/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "",
       "ua": ""
