@@ -1,4 +1,6 @@
 {
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;33faa3358ba30796e094dee3441a089a",
   "sites": [
     {
       "key": "RelaxSP",
@@ -18,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://45.207.11.9:6618"
+      "ext": "http://45.207.11.9:7798"
     },
     {
       "key": "MiniYs_spider",
@@ -58,7 +60,7 @@
     },
     {
       "key": "dm77_spider",
-      "name": "动漫",
+      "name": "动漫七七",
       "type": 3,
       "api": "csp_DM77",
       "searchable": 1,
@@ -746,7 +748,5 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;33faa3358ba30796e094dee3441a089a"
+  ]
 }
