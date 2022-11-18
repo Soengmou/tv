@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;7c83dc2d658ea614ae439182f7ed6170",
+  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;c5b6afae170c32d8725afa95b3619110",
   "sites": [
     {
       "key": "Tutu_spider",
@@ -10,7 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://45.207.11.9:6628"
+      "ext": ""
     },
     {
       "key": "RelaxSP",
