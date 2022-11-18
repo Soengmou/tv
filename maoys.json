@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/kvymin/TV/raw/branch/master/jar/1111.jar;md5;17b6fe202bd06833bcf9accf953f8563",
+"spider":"https://agit.ai/kvymin/TV/raw/branch/master/jar/cs.jar;md5;17b6fe202bd06833bcf9accf953f8563",
 
 "lives": [
 {"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2t2eW1pbi9UVi9yYXcvYnJhbmNoL21hc3Rlci9saXZlL2xpdmUudHh0"]}]}
