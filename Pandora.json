@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;c5b6afae170c32d8725afa95b3619110",
+  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;c5b6afae170c32d8725afa95b3619110",
   "sites": [
     {
       "key": "Tutu_spider",
