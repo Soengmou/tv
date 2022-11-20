@@ -3,16 +3,17 @@
   "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;c5b6afae170c32d8725afa95b3619110",
   "sites": [
     {
-      "key": "Tutu_spider",
+      "key": "csp_TutuYs",
       "name": "图图",
       "type": 3,
       "api": "csp_TutuYs",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "http://45.207.11.9:4433"
     },
     {
-      "key": "NoSearch_Bdys",
+      "key": "csp_Bdys01",
       "name": "哔滴",
       "type": 3,
       "api": "csp_Bdys01",
@@ -21,7 +22,7 @@
       "filterable": 1
     },
     {
-      "key": "NoSearch_DiDuan",
+      "key": "csp_Ddrk",
       "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
@@ -30,7 +31,7 @@
       "filterable": 0
     },
     {
-      "key": "Lezhu_spider",
+      "key": "csp_Lezhu",
       "name": "乐猪",
       "type": 3,
       "api": "csp_Lezhu",
@@ -39,7 +40,7 @@
       "filterable": 1
     },
     {
-      "key": "yanetflix_spider",
+      "key": "csp_YaNetFlix",
       "name": "鸭奈飞",
       "type": 3,
       "api": "csp_YaNetFlix",
@@ -48,7 +49,7 @@
       "filterable": 1
     },
     {
-      "key": "niketv_spider",
+      "key": "csp_NikeTV",
       "name": "耐客TV",
       "type": 3,
       "api": "csp_NikeTV",
@@ -66,7 +67,7 @@
       "filterable": 0
     },
     {
-      "key": "sliu_spider",
+      "key": "csp_ShiLiuDY",
       "name": "石榴",
       "type": 3,
       "api": "csp_ShiLiuDY",
@@ -84,7 +85,7 @@
       "filterable": 1
     },
     {
-      "key": "3EDY",
+      "key": "csp_EEEDY",
       "name": "3EDY",
       "type": 3,
       "api": "csp_EEEDY",
@@ -102,7 +103,7 @@
       "filterable": 1
     },
     {
-      "key": "csp_77",
+      "key": "csp_Kunyu77",
       "name": "七七",
       "type": 3,
       "api": "csp_Kunyu77",
@@ -111,7 +112,7 @@
       "filterable": 1
     },
     {
-      "key": "360_spider",
+      "key": "csp_SP360",
       "name": "360",
       "type": 3,
       "api": "csp_SP360",
@@ -192,7 +193,7 @@
       "filterable": 1
     },
     {
-      "key": "dm77_spider",
+      "key": "csp_DM77",
       "name": "动漫",
       "type": 3,
       "api": "csp_DM77",
@@ -201,7 +202,7 @@
       "filterable": 1
     },
     {
-      "key": "csp_BBB",
+      "key": "csp_Bili",
       "name": "哔哩",
       "type": 3,
       "api": "csp_Bili",
@@ -211,7 +212,7 @@
       "ext": "https://www.qiaoji8.com/tvbox/bili.json"
     },
     {
-      "key": "NoSearch_Yj1211",
+      "key": "csp_Yj1211",
       "name": "直播间",
       "type": 3,
       "api": "csp_Yj1211",
@@ -220,7 +221,7 @@
       "filterable": 1
     },
     {
-      "key": "Yisou",
+      "key": "csp_Yisou",
       "name": "易搜",
       "type": 3,
       "api": "csp_Yisou",
@@ -230,7 +231,7 @@
       "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
-      "key": "Gitcafe",
+      "key": "csp_GitCafe",
       "name": "小纸条",
       "type": 3,
       "api": "csp_GitCafe",
@@ -240,7 +241,7 @@
       "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
-      "key": "FindZY",
+      "key": "csp_FindZY",
       "name": "找资源",
       "type": 3,
       "api": "csp_FindZY",
@@ -250,7 +251,7 @@
       "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
-      "key": "push_agent",
+      "key": "csp_PushAgent",
       "name": "推送",
       "type": 3,
       "api": "csp_PushAgent",
