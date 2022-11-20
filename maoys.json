@@ -1,7 +1,7 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;c5b6afae170c32d8725afa95b3619110",
-  "sites": [
+  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;536fa865c4502be4907a2c6759373de8",
+  "sites": [ 
     {
       "key": "csp_TutuYs",
       "name": "图图",
@@ -10,7 +10,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://45.207.11.9:4433"
+      "ext": "http://45.207.11.9:6618"
+    },
+    {
+      "key":"csp_YQKAPP",
+      "name":"一起看",
+      "api":"csp_YQKAPP",
+      "type":3,
+      "filterable":1,
+      "playerType":2,
+      "quickSearch":1,
+      "searchable":1,
+      "ext":"https://api-tx.shumaxc.xyz"
     },
     {
       "key": "csp_Bdys01",
@@ -26,6 +37,15 @@
       "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_RelaxSP",
+      "name": "轻松",
+      "type": 3,
+      "api": "csp_RelaxSP",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
