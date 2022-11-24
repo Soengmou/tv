@@ -1,42 +1,40 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/cs.jar;md5;e3f1a10099611223738e86beb3e859c1",
-  "sites": [ 
+  "sites": [
     {
-      "key": "csp_TutuYs",
-      "name": "图图",
+      "key": "YQK_spider",
+      "name": "一起看TV",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api-tx.shumaxc.xyz"
+    },
+    {
+      "key": "Tutu_spider",
+      "name": "图图影视",
       "type": 3,
       "api": "csp_TutuYs",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://43.154.35.148:9797/api/tutuapp.php"
+      "ext": "http://45.207.11.9:6618"
     },
     {
-      "key":"MianHua",
-      "name":"百影",
-      "type":3,
-      "api":"csp_MianHua",
-      "searchable":1,
-      "playerType":2,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"http://47.104.99.175"
+      "key": "百影视频",
+      "name": "百影视频",
+      "type": 3,
+      "api": "csp_MianHua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://47.104.99.175"
     },
     {
-      "key":"csp_YQKAPP",
-      "name":"一起看",
-      "api":"csp_YQKAPP",
-      "type":3,
-      "filterable":1,
-      "playerType":2,
-      "quickSearch":1,
-      "searchable":1,
-      "ext":"https://api-tx.shumaxc.xyz"
-    },
-    {
-      "key": "csp_Bdys01",
-      "name": "哔滴",
+      "key": "NoSearch_Bdys_spider",
+      "name": "哔滴影视",
       "type": 3,
       "api": "csp_Bdys01",
       "searchable": 1,
@@ -44,8 +42,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_Ddrk",
-      "name": "低端",
+      "key": "NoSearch_csp_DiDuan",
+      "name": "低端影视",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -53,8 +51,8 @@
       "filterable": 0
     },
     {
-      "key": "csp_Lezhu",
-      "name": "乐猪",
+      "key": "Lezhu_spider",
+      "name": "乐猪影视",
       "type": 3,
       "api": "csp_Lezhu",
       "searchable": 1,
@@ -62,7 +60,16 @@
       "filterable": 1
     },
     {
-      "key": "csp_YaNetFlix",
+      "key": "dm77_spider",
+      "name": "齐齐动漫",
+      "type": 3,
+      "api": "csp_DM77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yanetflix_spider",
       "name": "鸭奈飞",
       "type": 3,
       "api": "csp_YaNetFlix",
@@ -71,7 +78,7 @@
       "filterable": 1
     },
     {
-      "key": "csp_NikeTV",
+      "key": "niketv_spider",
       "name": "耐客TV",
       "type": 3,
       "api": "csp_NikeTV",
@@ -80,18 +87,18 @@
       "filterable": 1
     },
     {
-      "key": "csp_MianHua",
-      "name": "棉花",
+      "key": "棉花影视",
+      "name": "棉花影视",
       "type": 3,
       "api": "csp_MianHua",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"http://118.190.144.126"
+      "ext": "http://118.190.144.126"
     },
     {
-      "key": "csp_ShiLiuDY",
-      "name": "石榴",
+      "key": "sliu_spider",
+      "name": "石榴电影",
       "type": 3,
       "api": "csp_ShiLiuDY",
       "searchable": 1,
@@ -99,8 +106,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_Kuaikan",
-      "name": "快看",
+      "key": "快看影视",
+      "name": "快看影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -108,8 +115,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_EEEDY",
-      "name": "3EDY",
+      "key": "3EDY",
+      "name": "3EDY(EXO)",
       "type": 3,
       "api": "csp_EEEDY",
       "searchable": 1,
@@ -118,7 +125,7 @@
     },
     {
       "key": "csp_Wmkk",
-      "name": "完美",
+      "name": "完美看看",
       "type": 3,
       "api": "csp_Wmkk",
       "searchable": 1,
@@ -126,8 +133,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_Kunyu77",
-      "name": "七七",
+      "key": "csp_77",
+      "name": "酷云七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -135,8 +142,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_SP360",
-      "name": "360",
+      "key": "360_spider",
+      "name": "360影视",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -144,7 +151,7 @@
       "filterable": 1
     },
     {
-      "key": "csp_LiteApple",
+      "key": "小苹果",
       "name": "小苹果",
       "type": 3,
       "api": "csp_LiteApple",
@@ -153,8 +160,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_Lgdyy",
-      "name": "蓝光",
+      "key": "蓝光电影",
+      "name": "蓝光电影",
       "type": 3,
       "api": "csp_Lgdyy",
       "searchable": 1,
@@ -162,8 +169,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_Smdyy",
-      "name": "神马",
+      "key": "神马电影",
+      "name": "神马电影",
       "type": 3,
       "api": "csp_Smdyy",
       "searchable": 1,
@@ -172,7 +179,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "厂长",
+      "name": "厂长资源",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -207,8 +214,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_Zxzj",
-      "name": "在线",
+      "key": "在线之家",
+      "name": "在线之家",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -216,65 +223,8 @@
       "filterable": 1
     },
     {
-      "key": "快播",
-      "name": "快播",
-      "type": 1,
-      "api": "https://www.kuaibozy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "国产剧",
-        "日韩剧",
-        "港台剧",
-        "欧美剧",
-        "泰剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "综艺"
-      ]
-    },
-    {
-      "key": "百度",
-      "name": "百度",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "大陆剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
-    },
-    {
-      "key": "csp_DM77",
-      "name": "动漫",
-      "type": 3,
-      "api": "csp_DM77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bili",
-      "name": "哔哩",
+      "key": "NoSearch_csp_BBB",
+      "name": "哔哩哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -283,8 +233,8 @@
       "ext": "https://www.qiaoji8.com/tvbox/bili.json"
     },
     {
-      "key": "csp_Yj1211",
-      "name": "直播间",
+      "key": "NoSearch_Yj1211_spider",
+      "name": "直播聚合",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -292,7 +242,7 @@
       "filterable": 1
     },
     {
-      "key": "csp_Yisou",
+      "key": "Yisou",
       "name": "易搜",
       "type": 3,
       "api": "csp_Yisou",
@@ -302,7 +252,7 @@
       "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
-      "key": "csp_GitCafe",
+      "key": "Gitcafe",
       "name": "小纸条",
       "type": 3,
       "api": "csp_GitCafe",
@@ -312,7 +262,7 @@
       "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
-      "key": "csp_FindZY",
+      "key": "FindZY",
       "name": "找资源",
       "type": 3,
       "api": "csp_FindZY",
@@ -322,7 +272,7 @@
       "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
-      "key": "csp_PushAgent",
+      "key": "push_agent",
       "name": "推送",
       "type": 3,
       "api": "csp_PushAgent",
