@@ -10,7 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://110.42.6.212:7788/"
+      "ext": http://43.154.35.148:9797/api/tutuapp.php"
     },
     {
       "key":"MianHua",
@@ -21,7 +21,7 @@
       "playerType":2,
       "quickSearch":1,
       "filterable":0,
-      *"ext":"http://47.104.99.175"
+      "ext":"http://47.104.99.175"
     },
     {
       "key":"csp_YQKAPP",
