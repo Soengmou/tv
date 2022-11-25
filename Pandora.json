@@ -1,6 +1,6 @@
 
 {
-    "spider":"https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;9d768be18080c6f5437bbe29ac6484bc",
+    "spider":"https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;e80798750eca57470f29d1942bce39bb",
     "sites": [ 
         {
             "key": "Kuaikan",
@@ -28,7 +28,8 @@
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext":"http://110.42.6.212:7788"
         },
         {
             "key": "Voflix",
