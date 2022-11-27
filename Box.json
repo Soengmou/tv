@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/cs.jar;md5;0625422b0f75c1a69705c7d30eded699",
+  "spider": "https://agit.ai/kvymin/TV/raw/branch/master/jar/cs.jar;md5;9d04046702540f665f8636ecd488d6a1",
   "sites": [
     {
       "key": "YQK_spider",
@@ -10,7 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://api-tx.shumaxc.xyz"
+      "ext": ""
     },
     {
       "key": "Tutu_spider",
