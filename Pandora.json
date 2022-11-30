@@ -1,13 +1,13 @@
 
 {
-"spider":"https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;e80798750eca57470f29d1942bce39bb",
+"spider":"https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;0827c3193cc497fd48a3f08f3d80a608",
 "wallpaper":"",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
 
 "sites":[
 {"key":"csp_kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
+{"key":"csp_AppTT","name":"图图","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
 {"key":"csp_Bttoo","name":"BTtwo","type":3,"api":"csp_Bttoo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"饭团","type":3,"api":"csp_Fantuan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Vofl","name":"Voflix","type":3,"api":"csp_Voflix","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
