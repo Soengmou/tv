@@ -1,6 +1,7 @@
 
 {
-"spider":"https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;0827c3193cc497fd48a3f08f3d80a608",
+ "spider":"https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;55f96ee7a86fcc5b5a98a0528aa30c8e",
+ //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/Kvymin/TV/main/Pandora.jar;md5;55f96ee7a86fcc5b5a98a0528aa30c8e",
 "wallpaper":"",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
 
