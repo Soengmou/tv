@@ -1,7 +1,6 @@
-
 {
-   "spider":"https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;edaac605b8f6c297b19d34464721f869",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/Kvymin/TV/main/Pandora.jar;md5;edaac605b8f6c297b19d34464721f869",
+   //"spider":"https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar;md5;edaac605b8f6c297b19d34464721f869",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/Kvymin/TV/main/Pandora.jar;md5;edaac605b8f6c297b19d34464721f869",
 "wallpaper":"",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
 
@@ -14,7 +13,7 @@
 {"key":"csp_Vofl","name":"Voflix","type":3,"api":"csp_Voflix","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name": "Libvio","type": 3,"api": "csp_Lib","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Auete","name":"Auete","type": 3,"api":"csp_Auete","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_ZJMiao","name":"新视觉","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zjdr","name":"追剧","type":3,"api":"csp_Zjdr","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan" ,"name":"低端","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","playerType":2,"searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_ny","name":"念影","type":3,"api":"csp_Nianying","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
